@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @DivijShah
-- 👀 I’m interested in Data Science, Machine Learning and NLP- 🌱 I’m currently learning Computer Engineering
+- 👀 I’m interested in Software development, Data Science, Machine Learning 
+- 🌱 I’m currently a UG student at PDEU pursuing Computer Engineering
 - 📫 How to reach me divij4901@gmail.com
 
 <!---
